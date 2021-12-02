@@ -6,7 +6,7 @@ https://www.kaggle.com/c/physiological-signals-processing-challenge-2021
 
 Winner of the competition:
 
-
+https://github.com/edumarmar/Physiological-Signals-Processing-Challenge-20-21/blob/main/Captura%20de%20pantalla%202021-12-02%20a%20las%2011.48.20.png
 
 ## Reducing False Arrhythmia alarms in the ICU with Naive Bayes
 
